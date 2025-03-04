@@ -1,0 +1,15 @@
+body{
+    color:dark-grey;
+    font-family: Georgia, 'Times New Roman';
+}
+
+header{
+    background-color: lightsteelblue;
+}
+h2{
+    color: brown;
+    font-family: "Kanit", sans-serif;
+}
+ol{
+    background-color: papayawhip;
+}

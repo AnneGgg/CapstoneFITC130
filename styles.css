@@ -1,3 +1,7 @@
+h1{
+    text-align: center;
+}
+
 body{
     color:dark-grey;
     font-family: Georgia, 'Times New Roman';
@@ -12,4 +16,12 @@ h2{
 }
 ol{
     background-color: papayawhip;
+}
+
+p{
+    line-height: 1.5;
+}
+
+footer{
+    font-weight: bold;
 }
